@@ -1,0 +1,105 @@
+{
+  "name": "wg-prioritization",
+  "kind": "working_group",
+  "subteam_of": "compiler",
+  "members": [
+    {
+      "name": "Santiago Pastorino",
+      "github": "spastorino",
+      "github_id": 52642,
+      "is_lead": true
+    },
+    {
+      "name": "Wesley Wiser",
+      "github": "wesleywiser",
+      "github_id": 831192,
+      "is_lead": true
+    },
+    {
+      "name": "apiraino",
+      "github": "apiraino",
+      "github_id": 6098822,
+      "is_lead": false
+    },
+    {
+      "name": "Dylan DPC",
+      "github": "Dylan-DPC",
+      "github_id": 12371125,
+      "is_lead": false
+    },
+    {
+      "name": "Yuki Okushi",
+      "github": "JohnTitor",
+      "github_id": 25030997,
+      "is_lead": false
+    },
+    {
+      "name": "Bastian Kauschke",
+      "github": "lcnr",
+      "github_id": 29864074,
+      "is_lead": false
+    },
+    {
+      "name": "LeSeulArtichaut",
+      "github": "LeSeulArtichaut",
+      "github_id": 38361244,
+      "is_lead": false
+    },
+    {
+      "name": "Who? Me?!",
+      "github": "mark-i-m",
+      "github_id": 8827840,
+      "is_lead": false
+    },
+    {
+      "name": "Jeremy Lempereur",
+      "github": "o0Ignition0o",
+      "github_id": 9465678,
+      "is_lead": false
+    },
+    {
+      "name": "Felix Klock",
+      "github": "pnkfelix",
+      "github_id": 173127,
+      "is_lead": false
+    }
+  ],
+  "alumni": [
+    {
+      "name": "Mazdak Farrokhzad",
+      "github": "Centril",
+      "github_id": 855702,
+      "is_lead": false
+    }
+  ],
+  "github": {
+    "teams": [
+      {
+        "org": "rust-lang",
+        "name": "wg-prioritization",
+        "members": [
+          52642,
+          173127,
+          831192,
+          6098822,
+          8827840,
+          9465678,
+          12371125,
+          25030997,
+          29864074,
+          38361244
+        ]
+      }
+    ]
+  },
+  "website_data": {
+    "name": "Prioritization working group",
+    "description": "Triaging bugs, mainly deciding if bugs are critical (potential release blockers) or not",
+    "page": "wg-prioritization",
+    "email": null,
+    "repo": "https://rust-lang.github.io/compiler-team/working-groups/prioritization/",
+    "discord": null,
+    "zulip_stream": null,
+    "weight": 0
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "core-observers",
+  "kind": "team",
+  "subteam_of": "core",
+  "members": [
+    {
+      "name": "Florian Gilcher",
+      "github": "skade",
+      "github_id": 47542,
+      "is_lead": false
+    }
+  ],
+  "alumni": [],
+  "github": {
+    "teams": [
+      {
+        "org": "rust-lang",
+        "name": "core-observers",
+        "members": [
+          47542
+        ]
+      }
+    ]
+  },
+  "website_data": {
+    "name": "Core team observers",
+    "description": "Observers on the core team",
+    "page": "core-observers",
+    "email": null,
+    "repo": null,
+    "discord": null,
+    "zulip_stream": null,
+    "weight": 0
+  }
+}

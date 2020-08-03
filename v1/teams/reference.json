@@ -1,0 +1,44 @@
+{
+  "name": "reference",
+  "kind": "team",
+  "subteam_of": "lang",
+  "members": [
+    {
+      "name": "Eric Huss",
+      "github": "ehuss",
+      "github_id": 43198,
+      "is_lead": true
+    },
+    {
+      "name": "Ryan Scheel",
+      "github": "Havvy",
+      "github_id": 731722,
+      "is_lead": false
+    },
+    {
+      "name": "Matthew Jasper",
+      "github": "matthewjasper",
+      "github_id": 20113453,
+      "is_lead": false
+    }
+  ],
+  "alumni": [
+    {
+      "name": "Mazdak Farrokhzad",
+      "github": "Centril",
+      "github_id": 855702,
+      "is_lead": false
+    }
+  ],
+  "github": null,
+  "website_data": {
+    "name": "Reference team",
+    "description": "Developing and writing the Rust reference",
+    "page": "reference",
+    "email": null,
+    "repo": null,
+    "discord": null,
+    "zulip_stream": null,
+    "weight": 0
+  }
+}

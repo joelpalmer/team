@@ -1,0 +1,77 @@
+{
+  "name": "wg-embedded-resources",
+  "kind": "working_group",
+  "subteam_of": "wg-embedded",
+  "members": [
+    {
+      "name": "Adam Greig",
+      "github": "adamgreig",
+      "github_id": 47219,
+      "is_lead": false
+    },
+    {
+      "name": "Andre Richter",
+      "github": "andre-richter",
+      "github_id": 4130005,
+      "is_lead": false
+    },
+    {
+      "name": "James Munns",
+      "github": "jamesmunns",
+      "github_id": 2097964,
+      "is_lead": false
+    },
+    {
+      "name": "Emil Fresk",
+      "github": "korken89",
+      "github_id": 913109,
+      "is_lead": false
+    },
+    {
+      "name": "Ryan",
+      "github": "ryankurte",
+      "github_id": 860620,
+      "is_lead": false
+    },
+    {
+      "name": "Jonathan Pallant",
+      "github": "thejpster",
+      "github_id": 959887,
+      "is_lead": false
+    },
+    {
+      "name": "Daniel Egger",
+      "github": "therealprof",
+      "github_id": 3321888,
+      "is_lead": false
+    }
+  ],
+  "alumni": [],
+  "github": {
+    "teams": [
+      {
+        "org": "rust-lang",
+        "name": "wg-embedded-resources",
+        "members": [
+          47219,
+          860620,
+          913109,
+          959887,
+          2097964,
+          3321888,
+          4130005
+        ]
+      }
+    ]
+  },
+  "website_data": {
+    "name": "Embedded resources working group",
+    "description": "Managing various resources owned by the embedded working group",
+    "page": "wg-embedded-resources",
+    "email": null,
+    "repo": null,
+    "discord": null,
+    "zulip_stream": null,
+    "weight": 0
+  }
+}
